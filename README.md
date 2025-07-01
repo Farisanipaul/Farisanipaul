@@ -28,7 +28,7 @@ I’m continuously seeking to refine my skills and grow into a **highly proficie
 
 ### 🔷 Vodacom Financial Services Client
 
-**Role**: Front-End Developer & Support Specialist  
+**Role**: Front-End Developer & Support Specialist
 **Technologies**: Vue.js, TypeScript, Jest, Storybook, Charles Proxy, Macaca DataHub
 
 - Built and maintained components for the **VodaPay app’s mini-program ecosystem**
@@ -55,10 +55,52 @@ At **BBD Software**, I participated in weekly group learning initiatives where w
 
 ## 🎓 Education
 
-**BSc in Computer Science & Informatics**  
-_University of Johannesburg_
+University of the Witwatersrand
+
+**BSc Mechanical Engineering**
+_University of the Witwatersrand_
+2021 – 2019
+
+**Relevant Coursework (or Courses Completed to Date):**
+
+**Year 1:**
+* CHEM1033 Chemistry I (Auxiliary) (Engineering)
+* MATH1014 Mathematics I (Engineering)
+* MECN1001 Introduction to Mechanical Engineering and Design
+* MECN1003 Engineering Drawing
+* PHYS1014 Physics I
+* PHYS1015 Mechanics
+
+**Year 2:**
+* ELEN2000 Electrical Engineering
+* MATH2011 Mathematics II
+* MECN1998 Vacation Work 1 (Mechanical)
+* MECN2000 Fluid Mechanics I
+* MECN2005 Mechanical Engineering Laboratory I
+* MECN2006 Thermodynamics I
+* MECN2011 Applied Mechanics A
+* MECN2012 Computing Skills and Software Development
+* MECN2013 Applied Mechanics B
+* MECN2014 Mechanical Engineering Design I
+* MECN2016 Introduction to Material Science and Engineering (PT)
+
+**Year 3:**
+* MECN3013 Business Management
+* MATH3026 Mathematical Methods
+* MECN3002 Fluid Mechanics II
+* MECN3007 Mechanical Engineering Laboratory II
+* MECN3010 Mechanics of Solids I
+* MECN3012 Mechatronics I
+* MECN3019 Mechanical Engineering Design and Production
+* MECN3027 Mechanical Vibrations
+* MECN3028 Engineering in its Social Context
+* MECN3032 Numerical Methods and Statistics
 
 ---
+
+**BSc in Computer Science & Informatics**
+_University of Johannesburg_
+2021 – 2023
 
 ## 🌱 Goals & Aspirations
 
@@ -100,5 +142,5 @@ I’m particularly aligned with your core values: **shipping fast, taking owners
 
 Thank you for taking the time to review my profile. I’m excited about the possibility of joining your team and contributing meaningfully. I look forward to hearing from you!
 
-**Sincerely**,  
+**Sincerely**,
 **Farisani Paul Ratshikombo**
