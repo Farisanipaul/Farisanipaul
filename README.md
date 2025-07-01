@@ -96,11 +96,11 @@ _University of the Witwatersrand_
 * MECN3028 Engineering in its Social Context
 * MECN3032 Numerical Methods and Statistics
 
----
-
 **BSc in Computer Science & Informatics**
 _University of Johannesburg_
 2021 – 2023
+
+---
 
 ## 🌱 Goals & Aspirations
 
